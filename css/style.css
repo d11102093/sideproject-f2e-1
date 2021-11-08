@@ -238,7 +238,7 @@ img {
 }
 /* banner */
 .serch-banner {
-  background-image: url(/img/banner2.jpg);
+  background-image: url(../img/banner2.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -248,7 +248,7 @@ img {
 }
 
 .foodacommadtion-banner {
-  background-image: url(/img/banner3.png);
+  background-image: url(../img/banner3.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
